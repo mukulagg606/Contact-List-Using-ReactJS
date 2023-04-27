@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Contact-List-Using-ReactJS/static/css/main.93491069.css",
+    "main.js": "/Contact-List-Using-ReactJS/static/js/main.ab0a5783.js",
+    "index.html": "/Contact-List-Using-ReactJS/index.html",
+    "main.93491069.css.map": "/Contact-List-Using-ReactJS/static/css/main.93491069.css.map",
+    "main.ab0a5783.js.map": "/Contact-List-Using-ReactJS/static/js/main.ab0a5783.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93491069.css",
+    "static/js/main.ab0a5783.js"
+  ]
+}
