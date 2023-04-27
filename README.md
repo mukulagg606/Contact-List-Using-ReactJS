@@ -1,4 +1,4 @@
-# Hosted Link -- After opening the link, click on Contact List App
+# Hosted Link --
 https://mukulagg606.github.io/Contact-List-Using-ReactJS/
 
 
